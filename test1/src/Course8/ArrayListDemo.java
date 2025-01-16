@@ -24,6 +24,6 @@ public class ArrayListDemo {
 		System.out.println("~確定夜宿表列~");
 		for (int i = 0; i < night.size(); i++) {
 			System.out.println("第 " + (i + 1) + " 天夜宿地點：" + night.get(i));
-		}
+		} 
 	}
 }
