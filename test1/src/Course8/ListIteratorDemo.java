@@ -20,7 +20,7 @@ public class ListIteratorDemo {
 			litera.next();
 			if(litera.nextIndex() == 2) {
 				litera.set("葡萄");
-			}
+			} 
 		}
 		
 		System.out.println("反向走訪 alist 集合元素...");
