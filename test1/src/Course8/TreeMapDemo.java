@@ -9,7 +9,7 @@ public class TreeMapDemo {
 		tmap.put(970, "花蓮");
 		tmap.put(500, "彰化");
 		tmap.put(900, "屏東");
-		tmap.put(600, "嘉義");
+		tmap.put(600, "嘉義");    
 		System.out.println("集合內容：" + tmap);
 		System.out.println("集合的元素個數：" + tmap.size());
 		int key = (int) tmap.firstKey();
