@@ -5,5 +5,8 @@
  * @author User
  *
  */
-module test1 {
+module Course10 {
+    requires java.desktop;
 }
+
+
