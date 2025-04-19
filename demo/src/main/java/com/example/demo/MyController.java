@@ -14,7 +14,6 @@ public class MyController {
 	
 	@RequestMapping("/test")
 	public String test() {
-		System.out.println("Hi!");
 		printer.print("Hello World");
 		return "Hello World!";
 	}
